@@ -9,3 +9,8 @@ h1{
 button{
     background-color: blue;
 }
+
+.container{
+    display:flex;
+    background-color: #489e48;
+}
